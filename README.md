@@ -49,3 +49,7 @@
 [youtube]: https://www.youtube.com/channel/UCuPkIG_b4Rhe3jCpGMcT_pQ
 [instagram]: https://www.instagram.com/itspujan/
 [facebook]: https://www.facebook.com/itspujan/
+[webdevplaylist]: https://www.youtube.com/channel/UC_YOSQyoq0nm8Mfp2ZZ8fqg
+[jsplaylist]: https://www.youtube.com/channel/UC_YOSQyoq0nm8Mfp2ZZ8fqg
+[cssplaylist]: https://www.youtube.com/channel/UC_YOSQyoq0nm8Mfp2ZZ8fqg
+[reactplaylist]: https://www.youtube.com/channel/UC_YOSQyoq0nm8Mfp2ZZ8fqg
