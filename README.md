@@ -48,8 +48,6 @@
 <br />
 <br />
 
----
----
 
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCuPkIG_b4Rhe3jCpGMcT_pQ
